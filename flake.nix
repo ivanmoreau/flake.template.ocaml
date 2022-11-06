@@ -14,6 +14,7 @@
             pkgs.dune_3
             pkgs.ocamlPackages.menhir
             pkgs.ocamlPackages.odoc
+            pkgs.ocaml
           ]; };
       });
 }
